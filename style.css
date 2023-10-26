@@ -21,4 +21,39 @@ h1{
 p{
     margin-top: -1px;
     padding-left:5px;
+    font-family: Bradley Hand, cursive;
+}
+
+.facts{
+    border: 5px dashed white;
+    
+
+}
+
+img:hover{
+    box-shadow: 5px 5px 6px gray;
+}
+
+img:hover{
+    transform: scale( 1.5);
+    transition: 5s linear;
+}
+
+.game{
+  
+    background-color: blue;
+}
+
+li{
+    font-family: Bradley Hand, cursive;
+}
+
+table{
+    align-items: center;
+    margin: auto;
+}
+
+.game1{
+  
+    background-color: blue;
 }
