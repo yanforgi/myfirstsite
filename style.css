@@ -63,3 +63,9 @@ tr{
     width:33%;
     
 }
+footer{
+  background-color:white;
+    height:30px;
+    width:60px;
+    float-left
+}
